@@ -19,6 +19,8 @@
 # OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+require_relative '../numerizer/numerizer.rb'
+
 module Tickle  #:nodoc:
   class << self #:nodoc:
     # == Configuration options
